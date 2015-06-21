@@ -1,8 +1,7 @@
 #Getting and Cleaning Data - Course Project
 ----------
 
-There is one R script called **run_analysis.R**
-
+There is a single R script called **run_analysis.R**
 
 As a prerequisite, the Samsung UCI HAR Data set should be downloaded and unzipped to a directory folder called 'UCI HAR Data set' which should be in the same working directory as this **run_analysis.R** script.
 
@@ -23,8 +22,8 @@ Per requirements in the course project, this **run_analysis.R** script does the 
 
 The output of this script is the tidy dataset called **UCI-HAR-Tidy-Dataset.csv** found in the working directory.
 
-----------
 
+##References
 A full description of the original data is available at the site where the data was obtained: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones "Human Activity Recognition Using Smartphones")
 
 Aside from Coursera lecture videos and swirl assignments, these other sources were consulted:
