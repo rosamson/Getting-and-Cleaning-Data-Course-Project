@@ -17,10 +17,10 @@ Per requirements in the course project, this **run_analysis.R** script does the 
 1. Extracts only the measurements on the **mean** and **standard deviation** for each measurement. 
 1. Uses descriptive **activity names** to name the activities in the data set
 1. Appropriately labels the data set with descriptive **variable names**.  
-1. From the data set in step 4, creates a second, independent tidy data set called **UCI-HAR-Tidy-Dataset.csv** with the average of each variable for each activity and each subject called.
+1. From the data set in step 4, creates a second, independent tidy data set called **UCI-HAR-Tidy-Dataset.txt** with the average of each variable for each activity and each subject called.
 
 
-The output of this script is the tidy dataset called **UCI-HAR-Tidy-Dataset.csv** found in the working directory.
+The output of this script is the tidy dataset called **UCI-HAR-Tidy-Dataset.txt** found in the working directory.
 
 
 ##References
