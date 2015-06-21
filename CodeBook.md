@@ -13,7 +13,7 @@ This code book describes the variables, the data, and processing of the data per
 
 ## Dataset Information
 
-The experiments were conducted with a group of 30 volunteers ranging in age from 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a Samsung Galaxy S smartphone on their waist. The smartphone captured various data about their movements.
+The experiments were conducted with a group of 30 volunteers ranging in age from 19-48 years. Each person performed six activities (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying) wearing a Samsung Galaxy S smartphone on their waist. The smartphone captured various data about their movements.
 
 ## The original data
 
